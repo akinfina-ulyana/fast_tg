@@ -1,0 +1,9 @@
+fastapi==0.110.2
+uvicorn==0.29.0
+requests==2.31.0
+python-dotenv==1.0.1
+
+aiogram==3.5.0
+
+googletrans==4.0.0-rc1
+
