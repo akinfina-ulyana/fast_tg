@@ -12,4 +12,5 @@ Aiogram
 FastAPI
 Sqlite(+sqlalchemy)
 
+
 03.04.2024
